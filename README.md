@@ -34,11 +34,9 @@ The model analyzes uploaded core sample images and predicts geological categorie
 4. CNN model prediction
 5. Mineral/rock classification
 6. Visualization and report generation
-
-Output
-
+---
+ ## Output
 The system generates:
-
 Predicted rock/mineral class
 Processed geological image
 
