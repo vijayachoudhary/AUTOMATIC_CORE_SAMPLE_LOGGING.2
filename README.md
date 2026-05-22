@@ -1,5 +1,10 @@
+#dataset
+---
+Minerals Identification Dataset 
+ https://www.kaggle.com/datasets/asiedubrempong/minerals-identification-dataset
+---
 # Automatic Core Sample Logging using Machine Learning
-
+---
 ## Overview
 This project is an AI/ML-based geological core sample logging system that automates the identification and classification of rock core images using image processing and deep learning techniques.
 
